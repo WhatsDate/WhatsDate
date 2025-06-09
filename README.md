@@ -1,4 +1,4 @@
-## WhatsDate AI dating reply by Andrea Orlandi.
+## WhatsDate AI dating reply:
 
 Use [WhatsApp client library](https://wwebjs.dev/) and [OpenAI client library](https://github.com/openai/openai-node) to auto-reply to your instant messages.
 
